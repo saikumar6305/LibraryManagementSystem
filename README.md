@@ -61,7 +61,7 @@ Run
    java LibraryCLI
 
 ---
-## Code Running
+## Output
 === Library Management ===
 1. Add Book
 2. List Books
